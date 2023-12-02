@@ -2,6 +2,11 @@
 <html>
   <head>
   <title>RubyRoos</title>
+  <style>
+    h1 {
+      color: pink;
+      }
+  </style>
   </head>
  <body> 
    <h1>RubyRoos</h1>
