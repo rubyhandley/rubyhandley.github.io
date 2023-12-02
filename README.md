@@ -1,10 +1,10 @@
-<!doctype html> 
+<doctype html> 
 <html>
   <head>
   <title>RubyRoos</title>
   <style>
     h1 {
-      color: pink;
+       color: red;
       }
   </style>
   </head>
