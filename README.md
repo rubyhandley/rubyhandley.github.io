@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
   <head>
-  <title>RubyRoos<title>
+  <title>RubyRoos</title>
   </head>
  <body> 
    <h1>RubyRoos</h1>
